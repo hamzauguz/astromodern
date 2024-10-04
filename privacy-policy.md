@@ -57,7 +57,7 @@ Hizmet Sağlayıcı, bilgilerinizi korumak için fiziksel, elektronik ve prosed�
 
 Bu Gizlilik Politikası zaman zaman güncellenebilir. Hizmet Sağlayıcı, bu sayfayı güncelleyerek size Gizlilik Politikasındaki değişiklikleri bildirecektir. Bu Gizlilik Politikasını düzenli olarak gözden geçirmeniz önerilir. Uygulamayı kullanmaya devam etmeniz, yapılan değişiklikleri kabul ettiğiniz anlamına gelir.
 
-Bu gizlilik politikası **08.04.2024** tarihinde yürürlüğe girmiştir.
+Bu gizlilik politikası **04.10.2024** tarihinde yürürlüğe girmiştir.
 
 ## Onayınız
 
